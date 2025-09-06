@@ -1,0 +1,38 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping ext="srcjar" type="ARCHIVE" />
+      <mapping pattern="gradlew" type="AUTO_DETECTED" />
+      <mapping pattern="error" type="AUTO_DETECTED" />
+      <mapping pattern=".gitattribute" type="AUTO_DETECTED" />
+      <mapping pattern=".prettierrc" type="JSON" />
+      <mapping pattern=".stylelintrc" type="JSON" />
+      <mapping pattern=".devcontainer.json" type="JSON5" />
+      <mapping pattern="devcontainer.json" type="JSON5" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping pattern="RISE_MLIR_slide_2020" type="Native" />
+      <mapping ext="dnf" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="wadl" type="XML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="fxml" approved="true" type="XML" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="jsb2" approved="true" type="JSON" />
+      <removed_mapping ext="jsb3" approved="true" type="JSON" />
+      <removed_mapping ext="md" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <removed_mapping ext="yml" approved="true" type="YAML" />
+      <removed_mapping pattern=".babelrc" approved="true" type="JSON" />
+      <removed_mapping pattern=".eslintrc" approved="true" type="JSON" />
+      <removed_mapping pattern=".ws-context" approved="true" type="JSON" />
+      <removed_mapping pattern="jest.config" approved="true" type="JSON" />
+      <mapping ext="plantuml" type="PlantUML file" />
+      <mapping pattern=".springBeans" type="Eclipse" />
+    </extensionMap>
+  </component>
+</application>

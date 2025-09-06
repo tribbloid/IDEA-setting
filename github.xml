@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="tribbloid" id="5896ddf9-5990-4ce4-a291-784f7bfb447d">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

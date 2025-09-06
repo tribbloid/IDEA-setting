@@ -1,0 +1,68 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="21" project-jdk-type="JavaSDK" />
+      <component name="ProjectViewState">
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+        <option name="showVisibilityIcons" value="true" />
+      </component>
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;sbt.project.settings.configurable&quot;
+  }
+}</component>
+      <component name="WindowStateProjectService">
+        <state x="448" y="186" key="SettingsEditor" timestamp="1752713121013">
+          <screen x="0" y="29" width="1920" height="1171" />
+        </state>
+        <state x="448" y="186" key="SettingsEditor/0.29.1920.1171" timestamp="1752713121013" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>21</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

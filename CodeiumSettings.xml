@@ -1,0 +1,18 @@
+<application>
+  <component name="com.codeium.intellij.settings.AppSettingsState">
+    <option name="autocompleteSpeed" value="AUTOCOMPLETE_SPEED_DEFAULT" />
+    <option name="cascadeAutoExecutionPolicy" value="2" />
+    <option name="cascadeOnboardingCompleted" value="true" />
+    <option name="chatInlayEnabled" value="false" />
+    <option name="completedCascadeOnboardingItems">
+      <list>
+        <option value="ONBOARDING_ACTION_TYPE_CHAT" />
+      </list>
+    </option>
+    <option name="enableCascadeToolWindow" value="false" />
+    <option name="firstInstall" value="false" />
+    <option name="hasShownPreReleaseNotification" value="true" />
+    <option name="openExplainProblemInCurrentConversation" value="true" />
+    <option name="showCascadeWelcomePage" value="false" />
+  </component>
+</application>

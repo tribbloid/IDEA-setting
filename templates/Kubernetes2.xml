@@ -1,0 +1,31 @@
+<templateSet group="Kubernetes">
+  <template name="kresource" value="apiVersion: $API_VERSION$&#10;kind: $KIND$&#10;metadata:&#10;  $END$" description="Kubernetes Resource From Scratch" toReformat="true" toShortenFQNames="true">
+    <variable name="API_VERSION" expression="complete()" defaultValue="&quot;v1&quot;" alwaysStopAt="true" />
+    <variable name="KIND" expression="complete()" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="kconfigmap" value="apiVersion: v1&#10;kind: ConfigMap&#10;metadata:&#10;  name: $NAME$&#10;data:&#10;  $KEY$: &quot;$VALUE$&quot;" description="Kubernetes ConfigMap" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="&quot;Title&quot;" alwaysStopAt="true" />
+    <variable name="KEY" expression="" defaultValue="&quot;key&quot;" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="kdeployment" value="apiVersion: apps/v1&#10;kind: Deployment&#10;metadata:&#10;  name: $NAME$&#10;  labels:&#10;    app: $NAME$&#10;spec:&#10;  replicas: 1&#10;  selector:&#10;    matchLabels:&#10;      app: $NAME$&#10;  template:&#10;    metadata:&#10;      name: $NAME$&#10;      labels:&#10;        app: $NAME$&#10;    spec:&#10;      containers:&#10;      - name: $NAME$&#10;        image: $IMAGE$&#10;        imagePullPolicy: IfNotPresent&#10;      restartPolicy: Always&#10;" description="Kubernetes Deployment" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="&quot;Title&quot;" alwaysStopAt="true" />
+    <variable name="IMAGE" expression="" defaultValue="&quot;Image&quot;" alwaysStopAt="true" />
+  </template>
+  <template name="kpod" value="apiVersion: v1&#10;kind: Pod&#10;metadata:&#10;  name: $NAME$ &#10;  labels:&#10;    app: $NAME$&#10;spec:&#10;  containers:&#10;  - name: $NAME$&#10;    image: $IMAGE$&#10;    imagePullPolicy: IfNotPresent&#10;  restartPolicy: Always&#10;" description="Kubernetes Pod" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="&quot;Title&quot;" alwaysStopAt="true" />
+    <variable name="IMAGE" expression="" defaultValue="&quot;Image&quot;" alwaysStopAt="true" />
+  </template>
+  <template name="kservice" value="apiVersion: v1&#10;kind: Service&#10;metadata:&#10;  name: $NAME$&#10;spec:&#10;  selector:&#10;    app: $NAME$&#10;  ports:&#10;    - protocol: TCP&#10;      port: $PORT$&#10;      targetPort: $TARGET_PORT$&#10;  type: NodePort" description="Kubernetes Service" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="&quot;Title&quot;" alwaysStopAt="true" />
+    <variable name="PORT" expression="" defaultValue="&quot;80&quot;" alwaysStopAt="true" />
+    <variable name="TARGET_PORT" expression="" defaultValue="&quot;8080&quot;" alwaysStopAt="true" />
+  </template>
+  <template name="kcronjob" value="apiVersion: batch/v1&#10;kind: CronJob&#10;metadata:&#10;  name: $NAME$&#10;spec:&#10;  schedule: &quot;* * * * *&quot; #&#9;Run every minute&#10;  jobTemplate:&#10;    spec:&#10;      template:&#10;        spec:&#10;          containers:&#10;            - name: $NAME$&#10;              image: busybox:latest&#10;              imagePullPolicy: IfNotPresent&#10;              command:&#10;                - /bin/sh&#10;                - -c&#10;                - date; echo Hello!&#10;          restartPolicy: OnFailure" description="Kubernetes CronJob" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="&quot;Title&quot;" alwaysStopAt="true" />
+  </template>
+  <template name="kingress" value="apiVersion: networking.k8s.io/v1&#10;kind: Ingress&#10;metadata:&#10;  name: $NAME$&#10;  annotations:&#10;    nginx.ingress.kubernetes.io/rewrite-target: /&#10;spec:&#10;  ingressClassName: nginx&#10;  rules:&#10;    - http:&#10;        paths:&#10;          - path: /api&#10;            pathType: Prefix&#10;            backend:&#10;              service:&#10;                name: $SERVICE_NAME$&#10;                port:&#10;                  number: 80" description="Kubernetes Ingress" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="&quot;Title&quot;" alwaysStopAt="true" />
+    <variable name="SERVICE_NAME" expression="" defaultValue="&quot;ServiceTitle&quot;" alwaysStopAt="true" />
+  </template>
+</templateSet>

@@ -1,0 +1,25 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.jetbrains.restWebServices" />
+        <option value="com.intellij.beanValidation" />
+        <option value="Docker" />
+        <option value="com.intellij.bigdatatools.kafka" />
+        <option value="Docker" />
+        <option value="com.intellij.bigdatatools.spark" />
+        <option value="com.intellij.aqua" />
+        <option value="com.intellij.grpc" />
+        <option value="com.intellij.kubernetes" />
+        <option value="aws.toolkit" />
+        <option value="com.intellij.javaee.web" />
+        <option value="JUnit" />
+        <option value="org.jetbrains.kotlin" />
+        <option value="com.intellij.spring.data" />
+        <option value="com.intellij.spring.mvc" />
+        <option value="com.intellij.flyway" />
+        <option value="Lombook Plugin" />
+      </list>
+    </option>
+  </component>
+</application>

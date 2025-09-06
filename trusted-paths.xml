@@ -1,0 +1,44 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/git-release/__DRONE/mavp2p" value="true" />
+        <entry key="$USER_HOME$/git-release/__LEGACY/scalatestplus-junit5/examples/gradle-kotlin-dsl-example" value="true" />
+        <entry key="$USER_HOME$/git-release/__MATH/joern" value="true" />
+        <entry key="$USER_HOME$/git-release/__MATH/lean4ij" value="true" />
+        <entry key="$USER_HOME$/git-release/__ORCHESTRATION/conductor" value="true" />
+        <entry key="$USER_HOME$/git-release/__ORCHESTRATION/orchestrator" value="true" />
+        <entry key="$USER_HOME$/git-release/__SCALAC/__LEGACY/intellij-scala" value="true" />
+        <entry key="$USER_HOME$/git-release/__SCALAC/__LEGACY/lean4ij" value="true" />
+        <entry key="$USER_HOME$/git-release/__SCALAC/intellij-platform-plugin-template" value="true" />
+        <entry key="$USER_HOME$/git-release/__SCALAC/intellij-scala" value="true" />
+        <entry key="$USER_HOME$/git-release/__SCALAC/lean4ij" value="true" />
+        <entry key="$USER_HOME$/git-release/__SCALAC/lean4ij/buildSrc" value="true" />
+        <entry key="$USER_HOME$/git-release/__SCALAC/lsp4ij" value="true" />
+        <entry key="$USER_HOME$/git-release/__SCALAC/scalafix-rules" value="true" />
+        <entry key="$USER_HOME$/git-release/__SCALAC/zio-intellij" value="true" />
+        <entry key="$USER_HOME$/git-release/brokk" value="true" />
+        <entry key="$USER_HOME$/git-release/effect-zoo" value="true" />
+        <entry key="$USER_HOME$/git-release/formless" value="true" />
+        <entry key="$USER_HOME$/git-release/frameless" value="true" />
+        <entry key="$USER_HOME$/git-release/jing" value="true" />
+        <entry key="$USER_HOME$/git-release/kyo" value="true" />
+        <entry key="$USER_HOME$/git-release/spark" value="true" />
+        <entry key="$USER_HOME$/git-scaffold/dottyspike" value="true" />
+        <entry key="$USER_HOME$/git/__DRONE/companion_computer" value="true" />
+        <entry key="$USER_HOME$/git/__MATH/lp2-lc-lean4" value="true" />
+        <entry key="$USER_HOME$/git/shapesafe/splain" value="true" />
+        <entry key="$USER_HOME$/git/spookystuff" value="true" />
+        <entry key="$USER_HOME$/git/spookystuff/prover-commons" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/git-release" />
+        <option value="$USER_HOME$/git" />
+      </list>
+    </option>
+  </component>
+</application>

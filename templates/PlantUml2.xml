@@ -1,0 +1,3 @@
+<templateSet group="PlantUml">
+  <template name="while" value="while (data available?)&#10;  :read data;&#10;endwhile" description="Activity diagram. While loop" toReformat="false" toShortenFQNames="true" />
+</templateSet>

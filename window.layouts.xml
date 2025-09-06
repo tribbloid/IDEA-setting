@@ -1,0 +1,392 @@
+<application>
+  <component name="ToolWindowLayout"><![CDATA[{
+  "activeLayoutName": "Apache",
+  "layouts": {
+    "Custom": {
+      "v2": [
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "weight": 0.1731771
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.2502604
+        },
+        {
+          "id": "Structure",
+          "order": 2,
+          "weight": 0.25,
+          "isSplit": true
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM",
+          "weight": 0.33005977
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.33005977
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "sbt-shell-toolwindow",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "isActiveOnStart": true,
+          "weight": 0.33005977
+        },
+        {
+          "id": "Build",
+          "order": 6,
+          "anchor": "BOTTOM",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.33005977
+        },
+        {
+          "id": "Windsurf Console",
+          "order": 7,
+          "anchor": "BOTTOM",
+          "weight": 0.9269855
+        },
+        {
+          "id": "Language Servers",
+          "order": 8,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Find",
+          "order": 9,
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.33005977
+        },
+        {
+          "id": "AIAssistant",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Database",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Gradle",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Cascade",
+          "order": 6,
+          "anchor": "RIGHT",
+          "isVisible": true,
+          "weight": 0.23776042
+        },
+        {
+          "id": "Notifications",
+          "order": 7,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25,
+          "isSplit": true
+        },
+        {
+          "id": "make",
+          "order": 8,
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "ElectroJunToolWindow",
+          "order": 9,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "sbt",
+          "order": 11,
+          "anchor": "RIGHT",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.23776042,
+          "isSplit": true
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.2502604,
+        "bottom": 0.33005977,
+        "right": 0.23776042
+      }
+    },
+    "Apache": {
+      "v2": [
+        {
+          "id": "Bookmarks",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Merge Requests",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Backup and Sync History",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Pull Requests",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.18984374
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "weight": 0.2502604
+        },
+        {
+          "id": "Structure",
+          "order": 2,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.18984374,
+          "isSplit": true
+        },
+        {
+          "id": "Profiler",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "internal-profiler",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "TODO",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "File Transfer",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Semantic Tokens Inspector",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM",
+          "weight": 0.33005977
+        },
+        {
+          "id": "Language Servers",
+          "order": 1,
+          "anchor": "BOTTOM",
+          "weight": 0.19000855
+        },
+        {
+          "id": "Problems",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.33005977
+        },
+        {
+          "id": "Terminal",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.33005977
+        },
+        {
+          "id": "Services",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "weight": 0.33005977
+        },
+        {
+          "id": "sbt-shell-toolwindow",
+          "order": 6,
+          "anchor": "BOTTOM",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.33005977
+        },
+        {
+          "id": "Build",
+          "order": 7,
+          "anchor": "BOTTOM",
+          "weight": 0.33005977
+        },
+        {
+          "id": "Find",
+          "order": 8,
+          "anchor": "BOTTOM",
+          "weight": 0.33005977
+        },
+        {
+          "id": "Run",
+          "order": 9,
+          "anchor": "BOTTOM",
+          "weight": 0.33005977
+        },
+        {
+          "id": "Debug",
+          "order": 10,
+          "anchor": "BOTTOM",
+          "weight": 0.33005977
+        },
+        {
+          "id": "PR AI Assistant",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "BigDataToolWindow",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Coverage",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "bsp",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Cascade",
+          "order": 0,
+          "anchor": "RIGHT",
+          "weight": 0.23776042,
+          "sideWeight": 0.6893004
+        },
+        {
+          "id": "Windsurf Console",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.7611979
+        },
+        {
+          "id": "AIAssistant",
+          "order": 2,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.2502604
+        },
+        {
+          "id": "Database",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Hierarchy",
+          "order": 7,
+          "anchor": "RIGHT",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.2502604,
+          "isSplit": true
+        },
+        {
+          "id": "Notifications",
+          "order": 8,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25,
+          "isSplit": true
+        },
+        {
+          "id": "make",
+          "order": 9,
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "ElectroJunToolWindow",
+          "order": 10,
+          "anchor": "RIGHT",
+          "weight": 0.32994792,
+          "sideWeight": 0.6796982
+        },
+        {
+          "id": "sbt",
+          "order": 11,
+          "anchor": "RIGHT",
+          "weight": 0.2502604,
+          "isSplit": true
+        },
+        {
+          "id": "Gradle",
+          "order": 12,
+          "anchor": "RIGHT",
+          "weight": 0.25,
+          "isSplit": true
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.18984374,
+        "bottom": 0.33005977,
+        "right": 0.2502604
+      }
+    }
+  }
+}]]></component>
+</application>
