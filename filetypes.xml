@@ -32,7 +32,6 @@
       <removed_mapping pattern=".ws-context" approved="true" type="JSON" />
       <removed_mapping pattern="jest.config" approved="true" type="JSON" />
       <mapping ext="plantuml" type="PlantUML file" />
-      <mapping pattern=".springBeans" type="Eclipse" />
     </extensionMap>
   </component>
 </application>
