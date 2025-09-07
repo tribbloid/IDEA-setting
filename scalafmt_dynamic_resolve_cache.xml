@@ -63,6 +63,35 @@
             </array>
           </value>
         </entry>
+        <entry key="3.9.9">
+          <value>
+            <array>
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/scalafmt-core_2.13/jars/scalafmt-core_2.13-3.9.9.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.16.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/scalafmt-sysops_2.13/jars/scalafmt-sysops_2.13-3.9.9.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/scalafmt-config_2.13/jars/scalafmt-config_2.13-3.9.9.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/metaconfig-core_2.13/jars/metaconfig-core_2.13-0.15.0.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/metaconfig-pprint_2.13/jars/metaconfig-pprint_2.13-0.15.0.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.13.16.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.13.16.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/io.github.java-diff-utils/java-diff-utils/jars/java-diff-utils-4.15.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.jline/jline/jars/jline-3.27.1-jdk8.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/com.lihaoyi/fansi_2.13/jars/fansi_2.13-0.5.0.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.typelevel/paiges-core_2.13/jars/paiges-core_2.13-0.4.4.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scala-lang.modules/scala-collection-compat_2.13/jars/scala-collection-compat_2.13-2.13.0.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/metaconfig-typesafe-config_2.13/jars/metaconfig-typesafe-config_2.13-0.15.0.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/com.typesafe/config/bundles/config-1.4.3.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/scalafmt-macros_2.13/jars/scalafmt-macros_2.13-3.9.9.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/scalameta_2.13/jars/scalameta_2.13-4.13.9.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/parsers_2.13/jars/parsers_2.13-4.13.9.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/trees_2.13/jars/trees_2.13-4.13.9.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/common_2.13/jars/common_2.13-4.13.9.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/com.lihaoyi/sourcecode_2.13/jars/sourcecode_2.13-0.4.2.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/io_2.13/jars/io_2.13-4.13.9.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/mdoc-parser_2.13/jars/mdoc-parser_2.13-2.6.4.jar" />
+            </array>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
