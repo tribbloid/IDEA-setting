@@ -2,11 +2,11 @@
   <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping ext="srcjar" type="ARCHIVE" />
+      <mapping pattern="gradlew" type="AUTO_DETECTED" />
       <mapping pattern="error" type="AUTO_DETECTED" />
       <mapping pattern=".gitattribute" type="AUTO_DETECTED" />
-      <mapping pattern="gradlew" type="AUTO_DETECTED" />
-      <mapping pattern=".stylelintrc" type="JSON" />
       <mapping pattern=".prettierrc" type="JSON" />
+      <mapping pattern=".stylelintrc" type="JSON" />
       <mapping pattern=".devcontainer.json" type="JSON5" />
       <mapping pattern="devcontainer.json" type="JSON5" />
       <mapping ext="main.kts" type="Kotlin" />
