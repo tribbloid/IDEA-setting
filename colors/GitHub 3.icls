@@ -184,7 +184,7 @@
     <option name="DEFAULT_DOC_MARKUP">
       <value />
     </option>
-    <option name="DEFAULT_ENTITY" baseAttributes="" />
+    <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_CALL">
       <value />
     </option>
