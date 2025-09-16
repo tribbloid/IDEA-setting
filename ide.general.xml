@@ -8,5 +8,6 @@
     <entry key="scala.erase.compiler.process.jdk.once" value="false" source="SYSTEM" />
     <entry key="moved.to.new.ui" value="true" source="SYSTEM" />
     <entry key="vcs.log.index.enable" value="true" source="SYSTEM" />
+    <entry key="java.highest.language.level" value="25" source="MANAGER" />
   </component>
 </application>
