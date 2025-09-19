@@ -184,6 +184,37 @@
       </roots>
     </jdk>
     <jdk version="2">
+      <name value="Python 3.13" />
+      <type value="Python SDK" />
+      <version value="Python 3.13.5" />
+      <homePath value="$USER_HOME$/AppData/Roaming/uv/python/cpython-3.13.5-windows-x86_64-none/python.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Roaming/uv/python/cpython-3.13.5-windows-x86_64-none/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/uv/python/cpython-3.13.5-windows-x86_64-none/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/uv/python/cpython-3.13.5-windows-x86_64-none" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/uv/python/cpython-3.13.5-windows-x86_64-none/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.2/python_stubs/-390844834" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="08542fd6-0bf2-41db-a32c-8888dc0113e9">
+        <setting name="FLAVOR_ID" value="WinPythonSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
+    <jdk version="2">
       <name value="17" />
       <type value="JavaSDK" />
       <version value="Amazon Corretto 17.0.16" />

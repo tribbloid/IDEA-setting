@@ -1,0 +1,23 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.13 interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Roaming/uv/python/cpython-3.13.5-windows-x86_64-none/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Roaming/uv/python/cpython-3.13.5-windows-x86_64-none/Lib" />
+        <root url="file://$USER_HOME$/AppData/Roaming/uv/python/cpython-3.13.5-windows-x86_64-none" />
+        <root url="file://$USER_HOME$/AppData/Roaming/uv/python/cpython-3.13.5-windows-x86_64-none/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.2/python_stubs/-390844834" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Roaming/uv/python/cpython-3.13.5-windows-x86_64-none/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Roaming/uv/python/cpython-3.13.5-windows-x86_64-none/Lib" />
+        <root url="file://$USER_HOME$/AppData/Roaming/uv/python/cpython-3.13.5-windows-x86_64-none" />
+        <root url="file://$USER_HOME$/AppData/Roaming/uv/python/cpython-3.13.5-windows-x86_64-none/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.2/python_stubs/-390844834" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
