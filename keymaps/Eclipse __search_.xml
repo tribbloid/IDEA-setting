@@ -1,0 +1,5 @@
+<keymap version="1" name="Eclipse (+search)" parent="Eclipse">
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="ctrl h" />
+  </action>
+</keymap>
