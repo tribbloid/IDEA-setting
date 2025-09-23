@@ -9,15 +9,16 @@
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".devcontainer.json" type="JSON5" />
       <mapping pattern="devcontainer.json" type="JSON5" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="RISE_MLIR_slide_2020" type="Native" />
       <mapping ext="dnf" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="wadl" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="fxml" approved="true" type="XML" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="jsb2" approved="true" type="JSON" />

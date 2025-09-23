@@ -1,11 +1,10 @@
-<keymap version="1" name="Eclipse copy" parent="Eclipse">
+<keymap version="1" name="Eclipse (+search)" parent="Eclipse">
   <action id="ActivateBigDataToolWindowToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
-  <action id="Find">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="ctrl f" />
+  <action id="ActivateGitHubActionsToolWindow">
+    <keyboard-shortcut first-keystroke="alt g" />
   </action>
-  <action id="FindSelectionInPath" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="ctrl h" />
   </action>
