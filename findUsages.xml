@@ -1,7 +1,7 @@
 <application>
   <component name="FindUsagesSettings">
-    <option name="customScope" value="Project 'scalaspike'" />
-    <option name="defaultScopeName" value="Project 'scalaspike'" />
-    <option name="SEARCH_SCOPE" value="Project 'scalaspike'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
