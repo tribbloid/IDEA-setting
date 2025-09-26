@@ -9,9 +9,9 @@
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".devcontainer.json" type="JSON5" />
       <mapping pattern="devcontainer.json" type="JSON5" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="RISE_MLIR_slide_2020" type="Native" />
       <mapping ext="dnf" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
