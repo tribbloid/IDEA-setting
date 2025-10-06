@@ -175,20 +175,25 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.18984374
+          "weight": 0.18984374,
+          "sideWeight": 0.49862826
         },
         {
           "id": "Commit",
-          "order": 1,
+          "order": 2,
           "weight": 0.2502604
         },
         {
           "id": "Structure",
-          "order": 2,
-          "isActiveOnStart": true,
-          "isVisible": true,
+          "order": 3,
           "weight": 0.18984374,
           "isSplit": true
+        },
+        {
+          "id": "Hierarchy",
+          "order": 4,
+          "weight": 0.18984374,
+          "sideWeight": 0.50137174
         },
         {
           "id": "Profiler",
@@ -207,6 +212,11 @@
         },
         {
           "id": "File Transfer",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "HfCacheToolWindow",
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
@@ -254,8 +264,6 @@
           "id": "sbt-shell-toolwindow",
           "order": 6,
           "anchor": "BOTTOM",
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.33005977
         },
         {
@@ -268,22 +276,47 @@
           "id": "Find",
           "order": 8,
           "anchor": "BOTTOM",
+          "isVisible": true,
           "weight": 0.33005977
         },
         {
           "id": "Run",
           "order": 9,
           "anchor": "BOTTOM",
+          "isShowStripeButton": false,
           "weight": 0.33005977
         },
         {
           "id": "Debug",
           "order": 10,
           "anchor": "BOTTOM",
+          "isShowStripeButton": false,
           "weight": 0.33005977
         },
         {
+          "id": "Python Packages",
+          "order": 11,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "GitHub Actions",
+          "order": 12,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Plots",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
           "id": "PR AI Assistant",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "BSP",
           "anchor": "RIGHT",
           "isShowStripeButton": false
         },
@@ -293,10 +326,21 @@
           "isShowStripeButton": false
         },
         {
+          "id": "documentation.v2",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
           "id": "Coverage",
           "anchor": "RIGHT",
           "isShowStripeButton": false,
           "isSplit": true
+        },
+        {
+          "id": "SciView",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
         },
         {
           "id": "bsp",
@@ -307,8 +351,10 @@
           "id": "Cascade",
           "order": 0,
           "anchor": "RIGHT",
+          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.23776042,
-          "sideWeight": 0.6893004
+          "sideWeight": 0.49725652
         },
         {
           "id": "Windsurf Console",
@@ -336,17 +382,8 @@
           "weight": 0.25
         },
         {
-          "id": "Hierarchy",
-          "order": 7,
-          "anchor": "RIGHT",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.2502604,
-          "isSplit": true
-        },
-        {
           "id": "Notifications",
-          "order": 8,
+          "order": 6,
           "anchor": "RIGHT",
           "contentUiType": "COMBO",
           "weight": 0.25,
@@ -354,29 +391,43 @@
         },
         {
           "id": "make",
-          "order": 9,
+          "order": 7,
           "anchor": "RIGHT",
           "isSplit": true
         },
         {
           "id": "ElectroJunToolWindow",
-          "order": 10,
+          "order": 8,
           "anchor": "RIGHT",
           "weight": 0.32994792,
           "sideWeight": 0.6796982
         },
         {
           "id": "sbt",
-          "order": 11,
+          "order": 9,
           "anchor": "RIGHT",
-          "weight": 0.2502604,
+          "weight": 0.23776042,
+          "sideWeight": 0.5027435,
           "isSplit": true
         },
         {
           "id": "Gradle",
-          "order": 12,
+          "order": 10,
           "anchor": "RIGHT",
           "weight": 0.25,
+          "isSplit": true
+        },
+        {
+          "id": "Python Console",
+          "order": 11,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Jupyter Variables",
+          "order": 12,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
           "isSplit": true
         }
       ],
@@ -384,7 +435,7 @@
         "top": 0.33,
         "left": 0.18984374,
         "bottom": 0.33005977,
-        "right": 0.2502604
+        "right": 0.23776042
       }
     }
   }
