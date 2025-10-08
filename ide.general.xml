@@ -9,6 +9,5 @@
     <entry key="ide.experimental.ui" value="true" source="SYSTEM" />
     <entry key="scala.erase.compiler.process.jdk.once" value="false" source="SYSTEM" />
     <entry key="kotlin.scripting.index.dependencies.sources" value="true" source="SYSTEM" />
-    <entry key="idea.islands.feedback2.enabled" value="false" source="MANAGER" />
   </component>
 </application>
