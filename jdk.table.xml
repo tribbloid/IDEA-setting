@@ -174,7 +174,14 @@
           <root type="composite" />
         </annotationsPath>
         <classPath>
-          <root type="composite" />
+          <root type="composite">
+            <root url="file:///usr/lib/python3.12" type="simple" />
+            <root url="file:///usr/lib/python3.12/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python3.12/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python3/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2025.2/python_stubs/-32419094" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />
+          </root>
         </classPath>
         <javadocPath>
           <root type="composite" />
