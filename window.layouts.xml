@@ -175,23 +175,22 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.18984374,
-          "sideWeight": 0.49862826
+          "weight": 0.13828126
         },
         {
           "id": "Commit",
-          "order": 2,
+          "order": 1,
           "weight": 0.2502604
         },
         {
           "id": "Structure",
-          "order": 3,
+          "order": 2,
           "weight": 0.18984374,
           "isSplit": true
         },
         {
           "id": "Hierarchy",
-          "order": 4,
+          "order": 3,
           "weight": 0.18984374,
           "sideWeight": 0.50137174
         },
@@ -206,22 +205,22 @@
           "isShowStripeButton": false
         },
         {
-          "id": "TODO",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "File Transfer",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
           "id": "HfCacheToolWindow",
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
         {
           "id": "Semantic Tokens Inspector",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "TODO",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "File Transfer",
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
@@ -252,7 +251,7 @@
           "id": "Terminal",
           "order": 4,
           "anchor": "BOTTOM",
-          "weight": 0.33005977
+          "weight": 0.3650726
         },
         {
           "id": "Services",
@@ -270,13 +269,13 @@
           "id": "Build",
           "order": 7,
           "anchor": "BOTTOM",
+          "isVisible": true,
           "weight": 0.33005977
         },
         {
           "id": "Find",
           "order": 8,
           "anchor": "BOTTOM",
-          "isVisible": true,
           "weight": 0.33005977
         },
         {
@@ -321,6 +320,16 @@
           "isShowStripeButton": false
         },
         {
+          "id": "SciView",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "bsp",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
           "id": "BigDataToolWindow",
           "anchor": "RIGHT",
           "isShowStripeButton": false
@@ -338,23 +347,13 @@
           "isSplit": true
         },
         {
-          "id": "SciView",
-          "anchor": "RIGHT",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "bsp",
-          "anchor": "RIGHT",
-          "isShowStripeButton": false
-        },
-        {
           "id": "Cascade",
           "order": 0,
           "anchor": "RIGHT",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.23776042,
-          "sideWeight": 0.49725652
+          "weight": 0.20078126,
+          "sideWeight": 0.40403587
         },
         {
           "id": "Windsurf Console",
@@ -383,10 +382,17 @@
         },
         {
           "id": "Notifications",
-          "order": 6,
+          "order": 5,
           "anchor": "RIGHT",
           "contentUiType": "COMBO",
           "weight": 0.25,
+          "isSplit": true
+        },
+        {
+          "id": "MCP Servers",
+          "order": 6,
+          "anchor": "RIGHT",
+          "weight": 0.32994792,
           "isSplit": true
         },
         {
@@ -414,7 +420,10 @@
           "id": "Gradle",
           "order": 10,
           "anchor": "RIGHT",
-          "weight": 0.25,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.20078126,
+          "sideWeight": 0.5959641,
           "isSplit": true
         },
         {
@@ -429,13 +438,20 @@
           "anchor": "RIGHT",
           "isShowStripeButton": false,
           "isSplit": true
+        },
+        {
+          "id": "MCP Inspector",
+          "order": 14,
+          "anchor": "RIGHT",
+          "weight": 0.32994792,
+          "sideWeight": 0.9699552
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.18984374,
+        "left": 0.13828126,
         "bottom": 0.33005977,
-        "right": 0.23776042
+        "right": 0.20078126
       }
     }
   }
