@@ -1,0 +1,11 @@
+<application>
+  <component name=" com.redhat.devtools.intellij.telemetry.core.configuration.limits.EventCounts">
+    <option name="counts">
+      <map>
+        <entry key="Anonymous ID: 1f0b1538-882b-4c0c-a675-28815896e086" value="1761343068,2" />
+        <entry key="lsp.server.added" value="1761343068,1" />
+        <entry key="startup" value="1761343068,1" />
+      </map>
+    </option>
+  </component>
+</application>
