@@ -122,6 +122,7 @@
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff0000" />
+        <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="ffffff" />
       </value>
     </option>
