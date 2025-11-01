@@ -11,9 +11,9 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="SF Mono" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="fffbdd" />
-    <option name="GUTTER_BACKGROUND" value="ffffff" />
-    <option name="LINE_NUMBERS_COLOR" value="babbbd" />
+    <option name="CARET_ROW_COLOR" value="FFFBDD" />
+    <option name="GUTTER_BACKGROUND" value="FFFFFF" />
+    <option name="LINE_NUMBERS_COLOR" value="BABBBD" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
