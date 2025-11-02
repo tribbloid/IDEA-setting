@@ -89,6 +89,10 @@
     <group value="MainMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
       <path value="root" />
     </group>
+    <group value="com.anthropic.code.plugin.actions.SendToClaudeAction" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Floating Code Toolbar" />
+    </group>
     <group value="Synchronize" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -99,10 +103,6 @@
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Right" />
-    </group>
-    <group value="com.anthropic.code.plugin.actions.SendToClaudeAction" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Floating Code Toolbar" />
     </group>
   </component>
 </application>
