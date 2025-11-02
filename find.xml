@@ -9,7 +9,7 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.scala</mask>
     <mask>*.kts</mask>
+    <mask>*.scala</mask>
   </component>
 </application>

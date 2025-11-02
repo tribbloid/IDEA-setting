@@ -11,9 +11,9 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="SF Mono" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="fffbdd" />
-    <option name="GUTTER_BACKGROUND" value="ffffff" />
-    <option name="LINE_NUMBERS_COLOR" value="babbbd" />
+    <option name="CARET_ROW_COLOR" value="FFFBDD" />
+    <option name="GUTTER_BACKGROUND" value="FFFFFF" />
+    <option name="LINE_NUMBERS_COLOR" value="BABBBD" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -146,7 +146,7 @@
         <option name="FOREGROUND" value="0" />
       </value>
     </option>
-    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_BLOCK_COMMENT" />
+    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="5cc5" />
@@ -579,7 +579,7 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="6f42c1" />
@@ -801,16 +801,10 @@
     <option name="SQL_TABLE">
       <value />
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="5cc5" />
-      </value>
-    </option>
-    <option name="TEXT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -888,7 +882,7 @@
         <option name="ERROR_STRIPE_COLOR" value="ffcdff" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="0" />

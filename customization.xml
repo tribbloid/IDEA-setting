@@ -73,10 +73,17 @@
     <group value="EditorTabPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="4">
       <path value="root" />
     </group>
+    <group value="XDebugger.Code.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Floating Code Toolbar" />
+    </group>
     <group value="EditorGutterPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="3">
       <path value="root" />
     </group>
     <group value="EditorPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="2">
+      <path value="root" />
+    </group>
+    <group value="MainToolbarNewUI" is_group="true" forse_popup="false" action_type="-1" position="1">
       <path value="root" />
     </group>
     <group value="MainMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
@@ -92,6 +99,10 @@
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Right" />
+    </group>
+    <group value="XDebugger.Code.Toolbar" is_group="true" forse_popup="false" action_type="1" position="5">
+      <path value="root" />
+      <path value="Floating Code Toolbar" />
     </group>
   </component>
 </application>
