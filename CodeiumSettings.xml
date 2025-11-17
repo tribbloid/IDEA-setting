@@ -1,6 +1,5 @@
 <application>
   <component name="com.codeium.intellij.settings.AppSettingsState">
-    <option name="autocompleteSpeed" value="AUTOCOMPLETE_SPEED_DEFAULT" />
     <option name="cascadeAutoExecutionPolicy" value="2" />
     <option name="cascadeOnboardingCompleted" value="true" />
     <option name="chatInlayEnabled" value="false" />
@@ -14,6 +13,7 @@
     <option name="firstInstall" value="false" />
     <option name="hasShownPreReleaseNotification" value="true" />
     <option name="openExplainProblemInCurrentConversation" value="true" />
+    <option name="showSelectionToolbar" value="false" />
     <option name="verboseLoggingLevel" value="5" />
   </component>
 </application>
