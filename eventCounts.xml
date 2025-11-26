@@ -3,8 +3,10 @@
     <option name="counts">
       <map>
         <entry key="Anonymous ID: 1f0b1538-882b-4c0c-a675-28815896e086" value="1761343068,2" />
+        <entry key="Anonymous ID: 619254f5-a749-4c43-8be6-7f21398a1c4b" value="1764180526,2" />
         <entry key="lsp.server.added" value="1761343068,1" />
-        <entry key="startup" value="1761343068,1" />
+        <entry key="lsp.server.removed" value="1764180526,1" />
+        <entry key="startup" value="1764180526,1" />
       </map>
     </option>
   </component>
