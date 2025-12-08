@@ -534,13 +534,14 @@
             <root url="file://$USER_HOME$/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/site-packages/win32/lib" type="simple" />
             <root url="file://$USER_HOME$/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/site-packages/pythonwin" type="simple" />
             <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0/Lib/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.2/python_stubs/1597220504" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.3/python_stubs/1597220504" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/bleach" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/psutil" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/PyYAML" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/Authlib" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/pywin32" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/colorama" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/docutils" type="simple" />
@@ -548,12 +549,13 @@
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/Pygments" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/requests" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/decorator" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/pyperclip" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/cachetools" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/defusedxml" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/jsonschema" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/Send2Trash" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
-            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/beautifulsoup4" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/rfc3339-validator" type="simple" />
           </root>
         </classPath>
         <javadocPath>
