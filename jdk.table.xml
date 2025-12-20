@@ -528,10 +528,14 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0/DLLs" type="simple" />
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0/Lib" type="simple" />
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0" type="simple" />
             <root url="file://$USER_HOME$/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/site-packages" type="simple" />
             <root url="file://$USER_HOME$/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/site-packages/win32" type="simple" />
             <root url="file://$USER_HOME$/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/site-packages/win32/lib" type="simple" />
             <root url="file://$USER_HOME$/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0/LocalCache/local-packages/Python312/site-packages/pythonwin" type="simple" />
+            <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0/Lib/site-packages" type="simple" />
             <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.3/python_stubs/1597220504" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six" type="simple" />
